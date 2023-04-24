@@ -8,4 +8,5 @@ import androidx.lifecycle.*
 
 open class BaseViewModel : ViewModel() {
 
+
 }
